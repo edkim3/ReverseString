@@ -34,5 +34,4 @@ function displayString(revString) {
 
     // show the alert box
     document.getElementById("alert").classList.remove("invisible");
-
 }
